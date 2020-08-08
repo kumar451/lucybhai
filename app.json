@@ -119,7 +119,7 @@
     "lucifer_explain_config":{
        "description": " Plz type lucifer_probot here.",
         "required": true,
-         "value": ""
+         "value": "lucifer_probot"
    }
    },
    "keywords": [
