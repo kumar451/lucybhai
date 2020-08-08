@@ -116,6 +116,12 @@
          "value": ""
       }
    },
+    "lucifer_explain_config":{
+       "description": " Plz type lucifer_probot here.",
+        "required": true,
+         "value": ""
+   }
+   },
    "keywords": [
       "telegram",
       "weeb",
